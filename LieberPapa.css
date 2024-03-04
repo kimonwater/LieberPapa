@@ -1,0 +1,52 @@
+body {
+    background-color: #F7F3EB;
+    margin-left: 20px;
+    font-family: "Newsreader", sans-serif;
+    line-height: 160%;
+    padding: 29px 29px 58px 29px;
+    text-align: justify;
+  }
+
+
+img {
+    border-radius: 2%;
+    width: 58%;
+  }
+
+.top-part  {
+    background-color: #EFEBE4;
+    border-radius: 2%;
+    padding: 16px 29px 16px 29px;
+}
+
+
+
+a:link {
+  /*color: #AEA79C;*/
+  color: #8F7763;
+}
+
+/* visited link */
+a:visited {
+  color: #AEA79C;
+}
+
+/* mouse over link */
+a:hover {
+  color: #AEA79C;
+}
+
+/* selected link */
+a:active {
+  color: black;
+}
+
+
+@media only screen and (min-width: 1000px) {
+  body {padding: 100px 200px 100px 200px}
+  
+  img {
+    border-radius: 2%;
+    width: 16%
+  }
+}
