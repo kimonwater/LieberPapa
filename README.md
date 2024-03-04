@@ -1,4 +1,4 @@
- <img src="https://powerful.kim/wp-content/uploads/2024/03/Papa.png" style="width: 9%;"/>
+<img src="https://powerful.kim/wp-content/uploads/2024/03/Papa.png" style="width: 9%;"/>
  
 > For my dad's 62th birthday I gifted him a title page to a manuscript called "Dear Dad" with 95 little letters. This is the first release.
 
